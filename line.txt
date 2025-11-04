@@ -2,7 +2,7 @@
     "urls": [
         {
 
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/hero1898/hero1898.github.io/main/px.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/dalazhi/hero1898.github.io/main/px.json",
 
             "name": "🐶PX影视🐶"
 
@@ -10,7 +10,7 @@
         {
 
 
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/hero1898/hero1898.github.io/main/pp.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/dalazhi/hero1898.github.io/main/pp.json",
 
             "name": "🐶PQ影视🐶"
 
@@ -136,7 +136,7 @@
         },
         {
 
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/hero1898/hero1898.github.io/main/pq.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/dalazhi/hero1898.github.io/main/pq.json",
 
             "name": "🐹测试线路🐹"
 
